@@ -1,10 +1,10 @@
 package com.banff.api;
 
-import com.banff.bean.Comment;
-import com.banff.bean.MessageBean;
+
+ 
 import com.banff.bean.ResponseBean;
 import com.banff.mongo.model.UserBean;
-import com.banff.mongo.service.CommentService;
+//import com.banff.mongo.service.CommentService;
 import com.banff.mongo.service.UserService;
  
 import lombok.AllArgsConstructor;
@@ -26,7 +26,7 @@ public class CommonAPI {
 
 	private final UserService userService;
 
-	private final CommentService commentService;
+//	private final CommentService commentService;
 
     
 

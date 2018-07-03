@@ -1,10 +1,5 @@
 {
-  "groups": [
-    {
-      "name": "jianshu",
-      "type": "com.banff.config.JianshuConfig",
-      "sourceType": "com.banff.config.JianshuConfig"
-    },
+  "groups": [ 
     {
       "name": "custom",
       "type": "com.banff.config.CustomAttributesConfig",
